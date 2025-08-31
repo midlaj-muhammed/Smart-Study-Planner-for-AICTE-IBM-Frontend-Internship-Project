@@ -4,6 +4,9 @@ A modern, feature-rich web application designed to help students organize their 
 
 ![Smart Study Planner](https://img.shields.io/badge/Status-Complete-brightgreen) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
+🌐 **[Live Demo](https://midlaj-muhammed.github.io/Smart-Study-Planner-for-AICTE-IBM-Frontend-Internship-Project/)**
+
+
 ## 🌟 Features
 
 ### 📊 Dashboard
