@@ -49,7 +49,7 @@ A modern, feature-rich web application designed to help students organize their 
 1. **Download the files**:
    ```bash
    # Clone or download the repository
-   git clone <repository-url>
+   git clone https://github.com/midlaj-muhammed/Smart-Study-Planner-for-AICTE-IBM-Frontend-Internship-Project.git
    cd smart-study-planner
    ```
 
@@ -238,4 +238,4 @@ For questions or issues:
 **Happy Studying! 🎓**
 
 *Built with ❤️ for students who want to excel in their academic journey.*
-# Smart-Study-Planner-for-AICTE-IBM-Frontend-Internship-Project
+
